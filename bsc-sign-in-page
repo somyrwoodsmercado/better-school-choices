@@ -1,0 +1,58 @@
+<div style="width: 100%; height: 100%; position: relative; background: white; overflow: hidden">
+    <div style="width: 393px; left: 0px; top: 0px; position: absolute; background: white; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="align-self: stretch; height: 56px; position: relative; overflow: hidden">
+            <div style="left: 24px; top: 17px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.80); font-size: 12px; font-family: Albert Sans; font-weight: 700; word-wrap: break-word">10:00 AM</div>
+            <div style="width: 78.50px; height: 14.50px; left: 282.50px; top: 20px; position: absolute">
+                <div style="width: 23.50px; height: 11px; left: 55.50px; top: 3px; position: absolute">
+                    <div style="width: 16px; height: 11px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.80); border-radius: 4px"></div>
+                </div>
+                <div style="width: 17px; height: 13px; left: 31.50px; top: 1px; position: absolute; border-radius: 6px">
+                    <div style="width: 17px; height: 13px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.80)"></div>
+                </div>
+                <div style="width: 23.50px; height: 14px; left: 0px; top: 0px; position: absolute">
+                    <div style="width: 23.50px; height: 14px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.16); border-radius: 4px"></div>
+                    <div style="width: 15.50px; height: 11.62px; left: 0px; top: 2.38px; position: absolute; background: rgba(0, 0, 0, 0.80); border-radius: 4px"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 352px; left: 26px; top: 227px; position: absolute; color: #313131; font-size: 24px; font-family: Albert Sans; font-weight: 700; line-height: 32px; word-wrap: break-word">Great to See You Again</div>
+    <div style="width: 375px; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; left: 10px; top: 290px; position: absolute; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 345px; padding-left: 13px; padding-right: 13px; padding-top: 13.50px; padding-bottom: 13.50px; background: rgba(0, 0, 0, 0.05); border-radius: 12px; outline: 1px #444444 solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div style="flex: 1 1 0; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 17px; font-family: Albert Sans; font-weight: 400; line-height: 22.95px; word-wrap: break-word">Username</div>
+        </div>
+    </div>
+    <div style="width: 375px; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; left: 10px; top: 356px; position: absolute; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 345px; padding-left: 13px; padding-right: 13px; padding-top: 13.50px; padding-bottom: 13.50px; background: rgba(0, 0, 0, 0.05); border-radius: 12px; outline: 1px #444444 solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div style="flex: 1 1 0; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 17px; font-family: Albert Sans; font-weight: 400; line-height: 22.95px; word-wrap: break-word">Password</div>
+        </div>
+    </div>
+    <div style="left: 26px; top: 263px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #797979; font-size: 17px; font-family: Albert Sans; font-weight: 400; line-height: 22.95px; word-wrap: break-word">Enter username and password to log in.</div>
+    <div style="width: 350px; height: 55px; left: -24px; top: 516px; position: absolute">
+        <div style="width: 350px; height: 55px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 345px; height: 45px; left: 50px; top: 5px; position: absolute">
+            <div style="width: 345px; height: 45px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 20px; border: 1px #6B9CD1 solid"></div>
+            <div style="width: 345px; left: 0.33px; top: 12px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #313131; font-size: 16px; font-family: Albert Sans; font-weight: 700; line-height: 20px; word-wrap: break-word">Create Account</div>
+        </div>
+    </div>
+    <div style="width: 350px; height: 55px; left: -24px; top: 457px; position: absolute">
+        <div style="width: 350px; height: 55px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 345px; height: 45px; left: 50px; top: 5px; position: absolute">
+            <div style="width: 345px; height: 45px; left: 0px; top: 0px; position: absolute; background: #6B9CD1; border-radius: 20px; border: 1px #6B9CD1 solid"></div>
+            <div style="width: 345px; left: -0.17px; top: 13px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 18px; font-family: Albert Sans; font-weight: 700; line-height: 20px; word-wrap: break-word">Sign In</div>
+        </div>
+    </div>
+    <div style="width: 345px; height: 50px; padding-left: 16px; padding-right: 16px; padding-top: 14.50px; padding-bottom: 14.50px; left: 26px; top: 575px; position: absolute; background: rgba(0, 0, 0, 0.05); overflow: hidden; border-radius: 20px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+        <div style="flex: 1 1 0; text-align: center; color: rgba(0, 0, 0, 0.80); font-size: 16px; font-family: Albert Sans; font-weight: 700; line-height: 21.60px; word-wrap: break-word">Forgot Password</div>
+    </div>
+    <div style="width: 170px; height: 60px; left: 111px; top: 645px; position: absolute">
+        <div style="width: 170px; height: 60px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 145px; height: 45px; left: 13px; top: 7px; position: absolute">
+            <div style="width: 145px; height: 45px; left: 0px; top: 0px; position: absolute; background: #E15B64; border-radius: 20px; border: 1px #E15B64 solid"></div>
+            <div style="width: 120px; left: 14px; top: 13px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Albert Sans; font-weight: 700; line-height: 20px; word-wrap: break-word">Go Back</div>
+        </div>
+    </div>
+    <div data-property-1="Default" style="width: 125px; height: 83px; left: 137px; top: 56px; position: absolute">
+        <img style="width: 125px; height: 83px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/125x83" />
+    </div>
+</div>
